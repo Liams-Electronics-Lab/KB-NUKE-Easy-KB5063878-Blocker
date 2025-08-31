@@ -23,7 +23,7 @@ This is an easy to use reversable multi-stage blocker tool for this specific upd
 
 ## Usage
 
-1. Download `PowerShell-GUI-Script.ps1`  
+1. Download `KB-NUKE _ KB5063878.ps1`  
 2. Right-click and "Run with PowerShell" or run from an elevated PowerShell prompt  
 3. Choose your preferred blocking method:  
    - **I** - Install scheduled task blocker  
